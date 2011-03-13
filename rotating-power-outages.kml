@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
     <name>これはサンプル停電地点です / Simple outage placemark</name>
-    <description></description>
+    <description>[日付]-[グループ]-[実施時間]の時間帯のうち3時間程度 / English</description>
     <Point>
       <coordinates>139.767186,35.681125,0</coordinates>
     </Point>
