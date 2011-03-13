@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>これはサンプル停電地点です / Simple outage placemark</name>
+    <description></description>
+    <Point>
+      <coordinates>139.767186,35.681125,0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
