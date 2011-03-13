@@ -3,15 +3,31 @@
   <Document>
     <Folder>
       <Placemark>
-        <name>これはサンプル停電地点です / Simple outage placemark</name>
-        <description>[日付]-[グループ]-[実施時間]の時間帯のうち3時間程度 / English</description>
+        <name>
+          <![CDATA[
+                   これはサンプル停電地点です / Simple outage placemark
+          ]]>
+        </name>
+        <description>
+          <![CDATA[
+                   [日付]-[グループ]-[実施時間]の時間帯のうち3時間程度 / English
+          ]]>
+        </description>
         <Point>
           <coordinates>139.767186,35.681125,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>栃木県 さくら市 / Sakura-shi, Tochigi</name>
-        <description>2011/03/14-第1グループ-06:20～10:00/16:50～20:30の時間帯のうち3時間程度 / English</description>
+        <name>
+          <![CDATA[
+                   栃木県 さくら市 / Sakura-shi, Tochigi
+          ]]>
+        </name>
+        <description>
+          <![CDATA[
+                   2011/03/14-第1グループ-06:20～10:00/16:50～20:30の時間帯のうち3時間程度 / English
+          ]]>
+        </description>
         <Point>
           <coordinates>139.96698,36.68566,0</coordinates>
         </Point>
